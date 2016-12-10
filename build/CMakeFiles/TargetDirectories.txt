@@ -1,0 +1,1 @@
+/home/texs/Documents/UNSA/Cursos/AED/segmentacion_por_grafos/build/CMakeFiles/Segmentation.dir
